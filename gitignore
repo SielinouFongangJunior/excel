@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Excel files (optionnel)
+data/*.xlsx
+
+# Output PDF
+output/*.pdf
+
+# Environnement virtuel
+venv/
+.env/
+
+# Windows
+Thumbs.db
